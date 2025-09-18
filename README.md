@@ -23,12 +23,12 @@ Multilanguage Text-to-Speech (TTS) technology converts written text into spoken 
 <table>
     <tbody>
         <tr>
-            <td><img src="./img/img-2.png" alt="image"></td>
-            <td><img src="./img/img-3.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-2.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-3.png" alt="image"></td>
         </tr>
         <tr>
-            <td><img src="./img/img-4.png" alt="image"></td>
-            <td><img src="./img/img-5.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-4.png" alt="image"></td>
+            <td width="50%"><img src="./img/img-5.png" alt="image"></td>
         </tr>
     </tbody>
 </table>
@@ -40,60 +40,60 @@ Multilanguage Text-to-Speech (TTS) technology converts written text into spoken 
 <table>
 <tbody>
 <tr>
-<td>
+<td width="50%">
 <video src=" " controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to English female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/1.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src=" " controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to English kid audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/2.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src=" " controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to English male audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/3.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src=" " controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to French female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/4.mp3)
 
 </td>
 </tr>
 <tr>
-<td>
+<td width="50%">
 <video src=" " controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
-<td>
+<td width="50%">
 
 [▶️ Listen to Spanish female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/5.mp3)
 
