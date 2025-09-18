@@ -41,7 +41,7 @@ Multilanguage Text-to-Speech (TTS) technology converts written text into spoken 
 <tbody>
 <tr>
 <td width="50%">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/02532019-7ec2-4810-9e49-309ed6050f83" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
@@ -53,7 +53,7 @@ Your browser does not support the video tag.
 </tr>
 <tr>
 <td width="50%">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/3537c05e-41d8-4686-bc69-902606ba7fd3" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
@@ -65,7 +65,7 @@ Your browser does not support the video tag.
 </tr>
 <tr>
 <td width="50%">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/f5e58516-b061-4c6f-a565-6a7a43b2a64b" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
@@ -77,7 +77,7 @@ Your browser does not support the video tag.
 </tr>
 <tr>
 <td width="50%">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/95252437-ecf0-49a7-ac82-d4f139a7a497" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
@@ -89,7 +89,7 @@ Your browser does not support the video tag.
 </tr>
 <tr>
 <td width="50%">
-<video src=" " controls preload>
+<video src="https://github.com/user-attachments/assets/52dccca7-9521-45b6-9758-e52e6a2c6fe9" controls preload>
 Your browser does not support the video tag.
 </video>
 </td>
