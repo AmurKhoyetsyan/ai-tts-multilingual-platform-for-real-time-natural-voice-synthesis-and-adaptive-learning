@@ -47,7 +47,7 @@ Your browser does not support the video tag.
 </td>
 <td width="50%">
 
-[▶️ Listen to English female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/1.mp3)
+[▶️ Listen to English female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/ai-tts-multilingual-platform-for-real-time-natural-voice-synthesis-and-adaptive-learning/master/audio/1.mp3)
 
 </td>
 </tr>
@@ -59,7 +59,7 @@ Your browser does not support the video tag.
 </td>
 <td width="50%">
 
-[▶️ Listen to English kid audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/2.mp3)
+[▶️ Listen to English kid audio](https://raw.githubusercontent.com/AmurKhoyetsyan/ai-tts-multilingual-platform-for-real-time-natural-voice-synthesis-and-adaptive-learning/master/audio/2.mp3)
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ Your browser does not support the video tag.
 </td>
 <td width="50%">
 
-[▶️ Listen to English male audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/3.mp3)
+[▶️ Listen to English male audio](https://raw.githubusercontent.com/AmurKhoyetsyan/ai-tts-multilingual-platform-for-real-time-natural-voice-synthesis-and-adaptive-learning/master/audio/3.mp3)
 
 </td>
 </tr>
@@ -83,7 +83,7 @@ Your browser does not support the video tag.
 </td>
 <td width="50%">
 
-[▶️ Listen to French female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/4.mp3)
+[▶️ Listen to French female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/ai-tts-multilingual-platform-for-real-time-natural-voice-synthesis-and-adaptive-learning/master/audio/4.mp3)
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ Your browser does not support the video tag.
 </td>
 <td width="50%">
 
-[▶️ Listen to Spanish female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/Multilang-TTS-AI-TextToSpeech/master/audio/5.mp3)
+[▶️ Listen to Spanish female audio](https://raw.githubusercontent.com/AmurKhoyetsyan/ai-tts-multilingual-platform-for-real-time-natural-voice-synthesis-and-adaptive-learning/master/audio/5.mp3)
 
 </td>
 </tr>
